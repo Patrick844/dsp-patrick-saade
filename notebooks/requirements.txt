@@ -1,3 +1,0 @@
-numpy==1.21.5 
-jupyter==1.0.0 
-ipylernel==6.9.2 
