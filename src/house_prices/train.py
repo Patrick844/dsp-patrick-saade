@@ -1,4 +1,4 @@
-from house_prices.data_processing import pipeline, split_train_test
+from house_prices.data_processing import pipeline
 from sklearn.linear_model import LinearRegression
 import pickle
 
